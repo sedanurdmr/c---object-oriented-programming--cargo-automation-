@@ -1,0 +1,51 @@
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+c:\users\sedanur\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Sedanur\Desktop\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\bin\Debug\EntityFramework.dll
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\bin\Debug\EntityFramework.xml
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\SEDA\DERSLER\Nesneye Yönelik Analiz Ve Tasarım\kargo\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
